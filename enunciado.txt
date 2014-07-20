@@ -1,0 +1,15 @@
+O ficheiro dados.txt contem dados da contabilidade nacional para o PIB,
+investimento, consumo privado e consumo p´ublico de 1960 a 2012. Os dados
+estão em milhões de euros a preços constantes de 2006.
+
+Escreva um programa para ler o ficheiro e armazenar os dados numa
+matriz, colocando cada uma das variáveis numa coluna.
+
+O programa deverá conter funções para calcular a média, a variância, a
+mediana, o máximo, o mínimo e a taxa média de crescimento das variáveis.
+
+Poderão ainda calcular outras estatisticas descritivas no sentido de valorizar
+o trabalho.
+
+Os resultados deverão ser escritos num ficheiro, apresentando o resultados
+para cada uma das vari´aveis.
