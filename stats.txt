@@ -1,0 +1,6 @@
+Variavel                  Minimo          Maximo          Media           Mediana         Variancia       Taxa Media Crescimento      
+                                                                                                    
+PIB                       27776.62        164660.20       97769.71        86140.64        2081238656.00   3.42%
+Investimento              4435.30         40422.70        20737.50        16297.40        129173840.00    3.86%
+Consumo Privado           359.20          116025.70       39056.53        17926.20        1766519296.00   12.01%
+Consumo Publico           2721.50         34925.20        17960.58        16065.60        114543752.00    4.95%
